@@ -49,3 +49,6 @@ const replicateLikeButton = document.querySelector(
 );
 
 replicateLikeButton.addEventListener("click", handleLikeButtonClick);
+
+
+
